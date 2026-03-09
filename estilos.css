@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+body{
+    background-color: red;
+    font-size: 9;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serifs;
+    color: darkblue;
+}
+p{
+    font-size: 18pt;
+    color: aliceblue;
+}
+em{
+    color: black;
+    font-size: 5pt;
+}
+strong{
+    color: violet;
+    font-family: 'Times New Roman', Times, serif;
+}
